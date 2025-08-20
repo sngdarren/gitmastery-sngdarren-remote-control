@@ -1,3 +1,5 @@
 apples
 bananas
 cherries
+figs # add another line to fruits.txt
+figs # add another line to fruits.txt
